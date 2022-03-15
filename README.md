@@ -20,7 +20,7 @@ samples, guidance on mobile development, and a full API reference.
        width="300">
 </p>
 
-<p align="right">
+<p align="left">
   <img src="images/drawer_screen.jpg" alt="SR GUI Opening window"
        width="300">
 </p>
